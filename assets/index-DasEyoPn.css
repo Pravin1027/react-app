@@ -1,0 +1,1 @@
+*{box-sizing:border-box}html,body,#root{margin:0;min-height:100%}body{margin:0;font-family:system-ui,sans-serif;background:#fff;color:#111}.app{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}.app h1{margin:0 0 12px;font-size:40px}.app p{margin:0;color:#666}
